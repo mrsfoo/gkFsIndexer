@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="log4jconfig"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/configurationFramework"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/gkFsParser"/>
+	<classpathentry kind="lib" path="E:/proj/geekOlogy/mylog4j/lib/log4j-api-2.0-beta9.jar"/>
+	<classpathentry kind="lib" path="E:/proj/geekOlogy/mylog4j/lib/log4j-core-2.0-beta9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/tabOutput"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
